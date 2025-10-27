@@ -32,4 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-/src/main/java/resources/*.properties
+
+### DataBase ###
+/src/main/resources/
